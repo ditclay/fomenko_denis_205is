@@ -27,3 +27,5 @@
 <br/>:чтобы иметь резервную копию<br/>
 
   https://replit.com/@Holid3n/module1#main.py<br/>
+  
+  https://replit.com/@Holid3n/funkpy#main.py
